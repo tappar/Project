@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "wUHjpB7BTVl/lu0HpRPMIQbV+CT1afJVkd8JdHfIVws4AKvFh0vlBrErfGvlsMFPczAcfdUJgIH6sqSBC/82Gg==",
+  "dgSpecHash": "EP26WxMzi1aFQsb0smKQCa3mx/wMi+jsZJQmJEn++RHcpWQ3lC8jJWRuSPYy52Py+mbYkl/967IqCC0mWTKOdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\Documents\\CIS\\Armani\\Armani.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.data.sqlite\\10.0.1\\microsoft.data.sqlite.10.0.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.1\\microsoft.data.sqlite.core.10.0.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
